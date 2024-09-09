@@ -25,7 +25,6 @@ a{text-decoration: none;}
     width: 100%;
     margin-left: auto;
     margin-right: auto;
-    /*align-items: center;*/
     position: relative;
 }
 
@@ -33,8 +32,8 @@ a{text-decoration: none;}
     display: flex;
     margin-left: auto;
     margin-right: auto;
-    width: 90%;
-    max-width: 1300px;
+    width: 94%;
+    max-width: 1380px;
 }
 
 
@@ -209,7 +208,7 @@ a{text-decoration: none;}
 /*content - index*/
 
 #cr-uralss {
-    height: 100vh;
+    height: 100svh;
     align-items: end;
     background-color: #000000;
     background-image: url(../img/cryterio-full.webp);
