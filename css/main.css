@@ -56,17 +56,7 @@ a{text-decoration: none;}
 .hamburger {
     z-index: 1;
     cursor: pointer;
-    animation: shake 3s infinite;
 }
-
-@keyframes shake {
-    0% { transform: rotate(0deg); }
-   80% { transform: rotate(0deg); }
-   85% { transform: rotate(10deg); }
-   95% { transform: rotate(-10deg); }
-  100% { transform: rotate(0deg); }
-}
-
 
 .bar {
     background: var(--hamburger-color);
@@ -211,9 +201,9 @@ a{text-decoration: none;}
     height: 100svh;
     align-items: end;
     background-color: #000000;
-    background-image: url(../img/cryterio-full.webp);
+    background-image: url(../img/cryterio-pueblo-muerto.webp);
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: center -30px;
     background-size: cover;
 
 }
@@ -279,7 +269,6 @@ a{text-decoration: none;}
     }
     
     #cr-uralss {
-        background-image: url(../img/cryterio-full-responsive.webp);
         background-position: top;
         background-size: contain;
     }

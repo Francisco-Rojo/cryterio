@@ -33,7 +33,7 @@
 	row-gap: 25px;
 }
 
-.member {color: rgb(224,251,171); font-size: 17px;}
+.member, .member a{color: rgb(224,251,171); font-size: 17px;}
 .member-name{text-transform: uppercase;}
 
 
