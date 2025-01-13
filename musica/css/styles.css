@@ -1,7 +1,8 @@
 .cr-jyemco {
 	height: 100vh;
 	align-items: center;
-	background: var(--main-background);
+	/*background: var(--main-background);*/
+	background: #000;
 	color: var(--content-text-color);
 }
 
