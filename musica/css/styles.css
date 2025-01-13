@@ -1,11 +1,11 @@
-#cr-jyemco {
+.cr-jyemco {
 	height: 100vh;
 	align-items: center;
 	background: var(--main-background);
 	color: var(--content-text-color);
 }
 
-#cr-yrncms{
+.cr-yrncms{
 	flex-direction: column;
 	row-gap: 25px;
 }
@@ -115,11 +115,11 @@
 		min-width: 320px;
 	}
 
-	#cr-jyemco {
+	.cr-jyemco {
 		height: auto;
 	}
 
-	#cr-yrncms{
+	.cr-yrncms{
 		padding: 60px 0;
 	}
 }
@@ -150,7 +150,7 @@
 		height: 90%;
 	}
 
-	#cr-yrncms {
+	.cr-yrncms {
 		row-gap: 20px;
 	}
 
